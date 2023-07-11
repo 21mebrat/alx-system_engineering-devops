@@ -1,0 +1,4 @@
+#!/bin/bash
+priintf "%.2f" $NUM | sort
+
+
